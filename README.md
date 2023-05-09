@@ -31,11 +31,15 @@
 ## Algorithms Used
 
 1. Linear Regression
-2. Random Forest Regression
+2. Decision Tree Regression
+3. Random Forest Regression
+4. MultiLayer Percepton / Artificial Neural Network (ANN)
+5. Support Vector Regression
+
 
 ## Features and Label Used
 
-* Features: [runs,wickets,overs,striker,non-striker]
+* Features: [runs,wickets,overs,runs_last_5,wickets_last_5,riker,non-striker,type]
 * Label: [total]
 
 
