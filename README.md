@@ -24,8 +24,6 @@
 * non-striker -> min(runs scored by striker, runs scored by non-striker)
 * total -> Total runs scored by batting team after first innings
 
-
-* Note Incomplete below
 # Prediction Algorithm and Accuracy
 
 ## Algorithms Used
